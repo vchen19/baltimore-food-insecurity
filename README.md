@@ -93,11 +93,11 @@ This data set contains information on the Fast Food Outlet Density per 1,000 res
 
 Results and descriptions of Multiple Regression analysis can be found in [Mini Project 5](https://github.com/vchen19/baltimore_food_deserts). 
 
-For cluster analysis, Baltimore neighborhoods were grouped by income, life expectancy, healthy food availability index, and walk score. 
+For cluster analysis, Baltimore neighborhoods were grouped by income, life expectancy, healthy food availability index, and walk score. Detailed methods for cluster analysis can be found [here](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Analysis%20Files/cluster_analysis_methods.md).
 
 ![Cluster Graph](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/Clusters%201%20Graph.png)
 
-Next, these clusters were applied to a Plotly graph to visualize how the clusters were positioned on a life expectancy vs. income plot.
+Next, these clusters were applied to a Plotly graph to visualize how the clusters were positioned on a life expectancy vs. income plot. The Python code can be found [here](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Analysis%20Files/Multiple_Regression_and_Cluster.ipynb).
 
 ![Cluster Plotly](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/Cluster%20Plotly.png)
 
