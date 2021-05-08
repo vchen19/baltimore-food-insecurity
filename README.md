@@ -29,9 +29,21 @@ This map shows that many grocery stores are inaccessible.  Only the middle of Ba
 
 
 
-We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  
+We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  We also used a map made in [Mapbox](https://www.mapbox.com/) that shows the grocery stores (in red), the street food vendors (in yellow), the restaurants (in dark blue), and the Charm City Circulator routes (in blue, green, purple, and orange). 
 
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/healthy_food.png)
 
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/no_vehicles_map.png)
+
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/walkscore.png)
+
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/fastfood_map.png)
+
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/black_map.png)
+
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/white_map.png)
+
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/food_and_transportation_map.png)
 
 Street food vendors have a mobile set up and therefore could be a solution to the food desert problem.  We explored the items sold by the street food vendors.  
 
