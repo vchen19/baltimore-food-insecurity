@@ -10,5 +10,34 @@ _What variables relate to food insecurity and how does this differ across neighb
 
 ## Data Analysis
 
+### Geospatial Analysis for Targeted Solutions
+In order to create solutions targeted specifically at neighborhoods in Baltimore City that are at the highest risk for being food deserts, geospatial analysis is used.
+
+First we graph the number of locations of each food source in Baltimore City.  These main food sources are grocery stores, street food vendors, and restaurants.
+
+
+
+Now we map the grocery stores and free public transportation routes in Baltimore City, Maryland. The free public transportation routes are the Charm City Circulator routes.  The grocery stores are labeled with the black map markers and Charm City Circulator routes are labeled with orange, green, purple, and blue map markers.
+
+
+
+We also investigated the street food vendor locations to see if street food vendors, which have a more mobile setup, have a more widespread distribution.  The street food vendors are labeled with the light blue map markers.  
+
+
+
+This map shows that many grocery stores are inaccessible.  Only the middle of Baltimore and the area around the Inner Harbor have free public transportation options.  Street food vendors are mostly concentrated around the Charm City Circulator routes and the inner harbor and therefore do not increase accessibility to food.  
+
+
+
+We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  
+
+
+
+Street food vendors have a mobile set up and therefore could be a solution to the food desert problem.  We explored the items sold by the street food vendors.  
+
+
+
+As shown in the graph, the food selection is unhealthy, so the current street food vendors would not be a solution to the food desert problem.  Healthier options would need to be brought in.  
+
 ## Summary
 
