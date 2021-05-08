@@ -99,7 +99,7 @@ For cluster analysis, Baltimore neighborhoods were grouped by income, life expec
 
 Next, these clusters were applied to a Plotly graph to visualize how the clusters were positioned on a life expectancy vs. income plot.
 
-![Cluster Plotly(https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/Cluster%20Plotly.png)
+![Cluster Plotly](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/Cluster%20Plotly.png)
 
 This analysis confirms our thesis that there aren't distinctive city-level trends and that policy cannot simply look at metrics in isolation to determine whether or not a neighborhood is food insecure. Rather, policymakers should explore data on a cluster-level or neighborhood-level basis to target resources toward areas that are in the greatest need.
 
