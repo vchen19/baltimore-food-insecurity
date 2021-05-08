@@ -108,37 +108,37 @@ In order to create solutions targeted specifically at neighborhoods in Baltimore
 
 First we graph the number of locations of each food source in Baltimore City.  These main food sources are grocery stores, street food vendors, and restaurants.
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/foodsourcegraph.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/foodsourcegraph.png)
 
 Now we map the grocery stores and free public transportation routes in Baltimore City, Maryland. The free public transportation routes are the Charm City Circulator routes.  The grocery stores are labeled with the black map markers and Charm City Circulator routes are labeled with orange, green, purple, and blue map markers.
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/grocerymap.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/grocerymap.png)
 
 We also investigated the street food vendor locations to see if street food vendors, which have a more mobile setup, have a more widespread distribution.  The street food vendors are labeled with the light blue map markers.  
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/streetfoodvendormap.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/streetfoodvendormap.png)
 
 This map shows that many grocery stores are inaccessible.  Only the middle of Baltimore and the area around the Inner Harbor have free public transportation options.  Street food vendors are mostly concentrated around the Charm City Circulator routes and the inner harbor and therefore do not increase accessibility to food.  
 
 We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  We also used a map made in [Mapbox](https://www.mapbox.com/) that shows the grocery stores (in red), the street food vendors (in yellow), the restaurants (in dark blue), and the Charm City Circulator routes (in blue, green, purple, and orange). 
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/healthy_food.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/healthy_food.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/no_vehicles_map.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/no_vehicles_map.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/walkscore.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/walkscore.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/fastfood_map.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/fastfood_map.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/black_map.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/black_map.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/white_map.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/white_map.png)
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/food_and_transportation_map.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/food_and_transportation_map.png)
 
 Street food vendors have a mobile set up and therefore could be a solution to the food desert problem.  We explored the items sold by the street food vendors.  
 
-![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/StreetFoodVendorsBaltimore.png)
+![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/StreetFoodVendorsBaltimore.png)
 
 As shown in the graph, the food selection is unhealthy, so the current street food vendors would not be a solution to the food desert problem.  Healthier options would need to be brought in.  
 
