@@ -104,6 +104,8 @@ Next, these clusters were applied to a Plotly graph to visualize how the cluster
 This analysis confirms our thesis that there aren't distinctive city-level trends and that policy cannot simply look at metrics in isolation to determine whether or not a neighborhood is food insecure. Rather, policymakers should explore data on a cluster-level or neighborhood-level basis to target resources toward areas that are in the greatest need.
 
 ### Geospatial Analysis for Targeted Solutions
+The python notebook for the following data visualizations can be found [here](https://github.com/vchen19/baltimore-food-insecurity/blob/main/2021_05_4_food_desert_analysis.ipynb).
+
 In order to create solutions targeted specifically at neighborhoods in Baltimore City that are at the highest risk for being food deserts, geospatial analysis is used.
 
 First we graph the number of locations of each food source in Baltimore City.  These main food sources are grocery stores, street food vendors, and restaurants.
