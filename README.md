@@ -122,7 +122,7 @@ We also investigated the street food vendor locations to see if street food vend
 
 This map shows that many grocery stores are inaccessible.  Only the middle of Baltimore and the area around the Inner Harbor have free public transportation options.  Street food vendors are mostly concentrated around the Charm City Circulator routes and the inner harbor and therefore do not increase accessibility to food.  
 
-We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  We also used a map made in [Mapbox](https://www.mapbox.com/) that shows the grocery stores (in red), the street food vendors (in yellow), the restaurants (in dark blue), and the Charm City Circulator routes (in blue, green, purple, and orange). 
+We now take other factors into consideration in order to isolate and target the areas that are most at risk for being food deserts.  The following choropleth maps were used to find at risk areas and to create solutions.  We also used a map made in [Mapbox](https://www.mapbox.com/) that shows the grocery stores (in red), the street food vendors (in yellow), the restaurants (in dark blue), and the Charm City Circulator routes (in blue, green, purple, and orange).  The python notebook for the following data visualizations can be found [here](https://github.com/vchen19/baltimore-food-insecurity/blob/main/05_05_2021_choropleth_graphs.ipynb). 
 
 ![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/healthy_food.png)
 
@@ -138,7 +138,7 @@ We now take other factors into consideration in order to isolate and target the 
 
 ![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/food_and_transportation_map.png)
 
-Street food vendors have a mobile set up and therefore could be a solution to the food desert problem.  We explored the items sold by the street food vendors.  
+Street food vendors have a mobile set up and therefore could be a solution to the food desert problem.  We explored the items sold by the street food vendors.  The python notebook for this data visualization can be found [here](https://github.com/vchen19/baltimore-food-insecurity/blob/main/2021_05_4_food_desert_analysis.ipynb).  
 
 ![alt text](https://github.com/vchen19/baltimore-food-insecurity/blob/main/Visualizations/StreetFoodVendorsBaltimore.png)
 
